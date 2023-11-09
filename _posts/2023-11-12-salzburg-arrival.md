@@ -15,14 +15,15 @@ The EMJM Copernicus Master in Digital Earth started at the end of the week with 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img-dorm.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/img-salzburg.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/img-dorm.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
     The dormitory directly on the Salzach
 </div>
-
-
 
 [under construction]
 ...
