@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Arriving in Salzburg
+title: Arrival in Salzburg
 date: 2023-11-12 15:00:00
 description: 
 tags: personal life
