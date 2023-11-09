@@ -4,7 +4,7 @@ title: project 1
 description: a project with a background image
 img: assets/img/spectroscopy_display_img.jpg
 importance: 1
-category: remote sensing
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
