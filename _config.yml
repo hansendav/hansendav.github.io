@@ -118,9 +118,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: My EO journey # blog_name will be displayed in your blog page
+blog_name: my eo journey # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: In this section I will post my journey of diving into Earth Observation and Data Science
+blog_description: in this section you can follow my journey of diving into Earth Observation and Data Science
 permalink: /blog/:year/:title/
 
 # Pagination

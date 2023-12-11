@@ -3,7 +3,7 @@ layout: post
 title: Arrival in Salzburg
 date: 2023-11-09 15:00:00
 description: 
-tags: personal, life
+tags: personallife
 categories: story
 featured: true
 thumbnail: assets/img/img-salzburg.jpg
