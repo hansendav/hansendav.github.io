@@ -10,7 +10,6 @@ thumbnail: assets/img/vienna_thumbnail.jpg
 redirect: /assets/pdf/eodc_bev_excursion_vienna_report_hansen.pdf
 
 ---
-This is a place holder for the blog entry of my excursion to Vienna at the 21st May 2024 with the Course Copernicus Hubs and Institutions. 
 
 
 
